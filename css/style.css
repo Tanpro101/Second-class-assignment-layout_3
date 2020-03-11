@@ -1,0 +1,132 @@
+*{
+    margin: 0rem;
+    padding: 0rem;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background: pink;
+    text-align: center;
+    padding: .7rem;
+    overflow: hidden;
+}
+
+.logo{
+    background-color: blueviolet;
+    width: 25%;
+    float: left;
+}
+.logo h1{
+    padding: 1rem 0rem;
+}
+.title{
+    background: navajowhite;
+    width: 75%;
+    float: right;
+}
+.title h1{
+    padding: 1rem 0rem;
+}
+nav{
+  background: turquoise;
+}
+nav h1{
+  font-size: 2.5rem;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+article{
+    background: yellowgreen;
+    height: 70rem;
+    
+}
+.left{
+    background: royalblue;
+    height: 70rem;
+    width: 20%;
+    float: left;
+}
+.left h1{
+    text-align: center;
+    font-size: 2rem;
+    padding: 6rem 0rem;
+}
+.center{
+    background: indianred;
+    height: 70rem;
+    width: 60%;
+    float: left;
+}
+.center_top{
+    background: darkblue;
+    height: 20rem;
+}
+.center_top h1{
+    text-align: center;
+    font-size: 2rem;
+    padding: 4rem 0rem;
+    color: red;
+}
+.center_middle{
+    background: white;
+    height: 30rem;
+    overflow: hidden;
+}
+.center_middle_left{
+    background: darkgray;
+    height: 30rem;
+    width: 50%;
+    float: left;
+}
+.center_middle_left h1{
+    text-align: center;
+    font-size: 2rem;
+    padding: 4rem 0rem;
+    color:white;
+}
+.center_middle_right{
+    background: darkorange;
+    height: 30rem;
+    width: 50%;
+    float: right;
+}
+.center_middle_right h1{
+    text-align: center;
+    font-size: 2rem;
+    padding: 4rem 0rem;
+    color:white;
+}
+.center_bottom{
+    background:darkblue;
+    height: 20rem;
+}
+.center_bottom h1{
+    text-align: center;
+    font-size: 2rem;
+    padding: 4rem 0rem;
+    color: red;
+}
+.right{
+    background: green;
+    height: 70rem;
+    width: 20%;
+    float: right;
+}
+.right h1{
+    text-align: center;
+    font-size: 2rem;
+    padding: 6rem 0rem;
+}
+footer{
+    background: cyan;
+}
+footer h1{
+    text-align: center;
+    font-size: 2rem;
+    padding: 2rem 0rem;
+}
